@@ -1,2 +1,14 @@
 # ballp-leyu-guide
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
